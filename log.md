@@ -53,7 +53,7 @@
 **Thoughts** I'm so delighted today - I did not expect the gift from Stepik! The satisfaction I feel after solving a difficult code challenge is a reward itself.
 
 **Link(s) to my work**
-- [Finding frequent k-mers that cluster together into clumps](https://github.com/ClarissaPereira/Finding-Ori/blob/master/finding%20k-mer%20clumps.py)
+- [Finding frequent k-mers that cluster together into clumps](https://github.com/ClarissaPereira/Finding-Ori/blob/master/find%20k-mer%20clumps.py)
 
 
 

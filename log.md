@@ -4,6 +4,9 @@
 * [2020 Python Bootcamp - Udemy](https://www.udemy.com/course/complete-python-bootcamp/)
 * [Bioinformatics Algorithms - Stepik](https://stepik.org/course/2)
 
+**My Repos**
+* [Finding Ori](https://github.com/ClarissaPereira/Finding-Ori)
+
 ### Day 1: 11.07.2020
 
 **Today's Progress**: 

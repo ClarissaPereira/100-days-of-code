@@ -72,4 +72,5 @@
 **Link(s) to my work**
 - [reverse complement generator](https://github.com/ClarissaPereira/Finding-Ori/blob/master/reverse%20complement%20generator.py)
 - [find the minima of a skew plot](https://github.com/ClarissaPereira/Finding-Ori/blob/master/find%20skew%20minima.py)
+- [find the number of mutated bases in a replicated DNA strand](https://github.com/ClarissaPereira/Finding-Ori/blob/master/find%20mutated%20bases.py)
 

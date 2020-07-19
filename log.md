@@ -55,6 +55,18 @@
 **Link(s) to my work**
 - [finding frequent k-mers that cluster together into clumps](https://github.com/ClarissaPereira/Finding-Ori/blob/master/find%20k-mer%20clumps.py)
 
+### Day 5: 15.07.2020
 
+**Today's Progress**:
+* Wrote a function that generates the reverse complement of a DNA strand (i.e. the strand that is created in DNA replication)
+* Wrote a function that identifies the minima in a skew plot
+* Wrote a function that calculates Hamming distance (a measure of how 'mismatched' two strings are) to identify mutations in a replicated strand of DNA
+* Reviewed comparison operators and statements in Python 
+* Practiced using nested for loops
 
+**Thoughts** I was really productive today and I'm very proud of myself. I learnt a bit about information theory as part of researching Hamming Distance and I'm looking forward to putting all these skills into practice and working on larger data sets.
+
+**Link(s) to my work**
+- [Reverse Complement Generator](https://github.com/ClarissaPereira/Finding-Ori/blob/master/reverse%20complement%20generator.py)
+- [Find the minima of a skew plot](https://github.com/ClarissaPereira/Finding-Ori/blob/master/find%20skew%20minima.py)
 

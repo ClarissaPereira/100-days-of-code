@@ -74,3 +74,50 @@
 - [find the minima of a skew plot](https://github.com/ClarissaPereira/Finding-Ori/blob/master/find%20skew%20minima.py)
 - [find the number of mutated bases in a replicated DNA strand](https://github.com/ClarissaPereira/Finding-Ori/blob/master/find%20mutated%20bases.py)
 
+### Day 6: 16.07.2020
+
+**Today's Progress**:
+* Wrote a function that finds the most frequent k-mers in a base sequence (while also accounting for mismatches caused by mutations in replicated DNA)
+* Wrote a function that generates a list of all possible k-mers using the Cartesian Product of 'AGCT' 
+
+**Thoughts**  I've spent the past two days puzzling over the challenge of how to find all the possible nucleotide k-mers and how to identify imperfect k-mer matches. Today I felt the immense satisfaction of my program finally working! In the process, I learnt about Python modules, created my own functions, and persevered through endless errors. I'm really proud of myself!
+
+**Link(s) to my work**
+- [locate approximate k-mer matches](https://github.com/ClarissaPereira/Finding-Ori/blob/master/locate%20approximate%20k-mer%20matches.py)
+- [generate all possible k-mers](https://github.com/ClarissaPereira/Finding-Ori/blob/master/all%20k-mers%20generator.py)
+
+### Day 7: 17.07.2020
+
+**Today's Progress**:
+* Wrote a program which finally brings all my small functions together 
+ * It identifies the most frequent k-mer clumps in the origin of replication region of the genome in several steps
+* Tested my program on the Salmonella enterica genome and found the DnaA box to be TTATCCACA
+
+**Thoughts**  Feeling ecstatic that my program works - [literature](https://www.uniprot.org/uniprot/G5S336) shows that the DnaA box is either TTATCCACA or TTATCAA!
+
+**Link(s) to my work**
+- [Final DnaA Box Finder](https://github.com/ClarissaPereira/Finding-Ori/blob/master/Final%20DnaA%20Box%20Finder.py)
+
+### Day 8: 18.07.2020
+
+**Today's Progress**:
+* Learnt about GitHub and created my first repo
+* Forked this repo & started backdating my log
+* Combed through my code and made it more concise and added helpful comments
+
+**Thoughts** GitHub wasn't as intimidating as I thought! I still have to learn how to committ files directly from the command line...
+
+**Link(s) to my work**
+- [Finding Ori Repo](https://github.com/ClarissaPereira/Finding-Ori)
+
+### Day 9: 19.07.2020
+
+**Today's Progress**: 
+* Learnt how to use Matplotlib 
+* Wrote a program that creates a G:C ratio skew plot
+* Finished updating my repo
+
+**Thoughts** Matplotlib was surprisingly easy to use but I need to spend more time working with it. I'll brainstorm ways to incorporate it into my nest project.
+
+**Link(s) to my work**
+- [skew plotter](https://github.com/ClarissaPereira/Finding-Ori/blob/master/skew%20plotter.py)

@@ -70,6 +70,6 @@
 **Thoughts** I was really productive today and I'm very proud of myself. I learnt a bit about information theory as part of researching Hamming Distance and I'm looking forward to putting all these skills into practice and working on larger data sets.
 
 **Link(s) to my work**
-- [Reverse Complement Generator](https://github.com/ClarissaPereira/Finding-Ori/blob/master/reverse%20complement%20generator.py)
-- [Find the minima of a skew plot](https://github.com/ClarissaPereira/Finding-Ori/blob/master/find%20skew%20minima.py)
+- [reverse complement generator](https://github.com/ClarissaPereira/Finding-Ori/blob/master/reverse%20complement%20generator.py)
+- [find the minima of a skew plot](https://github.com/ClarissaPereira/Finding-Ori/blob/master/find%20skew%20minima.py)
 

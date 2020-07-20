@@ -121,3 +121,14 @@
 
 **Link(s) to my work**
 - [skew plotter](https://github.com/ClarissaPereira/Finding-Ori/blob/master/skew%20plotter.py)
+
+### Day 10: 20.07.2020
+
+**Today's Progress**:
+* Started Unit 2 of the Bioinformatics Algorithms course
+* Created a new repo
+
+**Thoughts** Feeling a bit frustrated trying to write a function that finds motifs in several strings of DNA - it's currently too inefficient so I need to find a way to cut down on runtime. I'm also certain that the way I'm going about it isn't as elegant as it could be but I felt it was important to just get some code out and I can improve it tomorrow. 
+
+**Link(s) to my work**
+- [new repo with biology notes and unfinished code](https://github.com/ClarissaPereira/Tick-TOC1)

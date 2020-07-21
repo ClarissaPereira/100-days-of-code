@@ -132,3 +132,18 @@
 
 **Link(s) to my work**
 - [new repo with biology notes and unfinished code](https://github.com/ClarissaPereira/Tick-TOC1)
+
+### Day 11: 21.07.2020
+
+**Today's Progress**
+* Solved the motif finder problem from yesterday - turns out it didn't need recursion but I learnt several ways to improve efficiency and compactness of code:
+    * zip the strings to be compared into tuples
+    * avoid nested for loops by creating sub_strings function
+    * use any and all to short-circuit execution once hamming distance exceeds d
+    * flatten nested for loop
+* Learnt about matrices and computational entropy
+
+**Thoughts** I'm pleased with today's progress although I spent a large chunk of the day debugging
+
+**Link(s) to my work**
+- [motif finder function](https://www.github.com/ClarissaPereira/Tick-TOC1/tree/master/basic_motif_search.py) 

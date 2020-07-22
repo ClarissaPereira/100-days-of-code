@@ -6,6 +6,7 @@
 
 **My Repos**
 * [Finding Ori](https://github.com/ClarissaPereira/Finding-Ori)
+* [Tick TOC1](https://github.com/ClarissaPereira/Tick-TOC1)
 
 ### Day 1: 11.07.2020
 
@@ -147,3 +148,18 @@
 
 **Link(s) to my work**
 - [motif finder function](https://www.github.com/ClarissaPereira/Tick-TOC1/tree/master/basic_motif_search.py) 
+
+### Day 12: 22.07.2020
+
+**Today's Progress**
+* Wrote a function that identifies the total minimum hamming distance between a pattern and a collection of DNA sequences
+* Created a bug report issue on GitHub and created a pull request to rectify my code
+* Learnt about 'Greedy algorithms'
+* Wrote a function which generates the k-mer motif with the minimum hamming distance between itself and all given DNA sequences
+
+**Thoughts** I'm getting more comfortable with the GitHub workflow and managing to solve code challenges faster than before! I wish this unit of the bioinformatics MOOC had a greater biology focus - so far it's been heavily based in statistics and I feel slightly out of depth. I will read up more on probability matrices before continuing with the course.
+
+**Link(s) to my work**
+- [total minimum hamming distance](https://github.com/ClarissaPereira/Tick-TOC1/blob/master/total%20minimum%20hamming%20distance.py)
+- [median motif finder](https://github.com/ClarissaPereira/Tick-TOC1/blob/master/median%20motif%20finder.py)
+

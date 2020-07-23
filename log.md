@@ -163,3 +163,14 @@
 - [total minimum hamming distance](https://github.com/ClarissaPereira/Tick-TOC1/blob/master/total%20minimum%20hamming%20distance.py)
 - [median motif finder](https://github.com/ClarissaPereira/Tick-TOC1/blob/master/median%20motif%20finder.py)
 
+### Day 13: 23.07.2020
+
+**Today's Progress**
+* Learnt about position weight matrices in bioinformatics and brushed up on my statistics
+* Learnt how to work with matrices (nested lists) in Python
+* Wrote a program which uses position weight matrices to find the most probable k-mer
+
+**Thoughts** Taking the time to learn about the statistics involved in probability & matrices really helped me. I started off so confused but things are becoming much clearer now!
+
+**Link(s) to my work**
+- [most probable kmer](https://github.com/ClarissaPereira/Tick-TOC1/blob/master/most%20probable%20kmer.py)
